@@ -1,0 +1,32 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "projet_se_loger",
+            "cwd": "projet_se_loger",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "projet_se_loger (profile mode)",
+            "cwd": "projet_se_loger",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "projet_se_loger (release mode)",
+            "cwd": "projet_se_loger",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "Flutter",
+            "program": "lib/main.dart",
+            "cwd": "projet_se_loger",
+            "request": "launch",
+            "type": "dart"
+        }
+    ]
+}
